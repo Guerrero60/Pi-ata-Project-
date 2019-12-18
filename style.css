@@ -1,0 +1,67 @@
+body{
+  background-color: rgb(133, 26, 133);
+  font-size: 30px; 
+}
+nav{
+  background-color: #A396A8;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  top: 0px;
+  position: fixed;  
+}
+    nav a{
+  text-decoration: none;
+}
+    nav a:hover{
+color:#B2E9C8;
+}
+ 
+  
+ main{
+  display:grid;
+  grid-template-rows: 1fr 1fr;
+  grid-column-gap: 20px;
+    
+ } 
+
+
+
+
+
+/* .myButton {
+color: rgb(255, 255, 255); font-size: 18px; line-height: 18px; padding: 7px; border-radius: 11px; font-family: Arial, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(28, 164, 135) 0%, rgb(35, 203, 181) 50%, rgb(20, 117, 112) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px solid rgb(28, 155, 164); display: inline-block;}
+.myButton:hover {
+background: rgb(28, 164, 153); }
+.myButton:active {
+background: rgb(20, 117, 104);  */
+
+
+
+ #pinata {
+color: #FFF;
+text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #ddda0c, 0 0 30px rgb(194, 216, 68), 0 0 40px rgb(196, 182, 58), 0 0 55px #49FF18, 0 0 85px #e4d50a
+}
+
+h4{
+  
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 34px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #ffc7a2;
+  font-weight: 700;
+  text-decoration: none;
+  font-style: italic;
+  font-variant: normal;
+  text-transform: none;
+
+
+}
+
+
+
+
+
